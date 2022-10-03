@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "username": "user",
+      "password": "12345"
+    },
+    {
+      "username": "dima",
+      "password": "12345"
+    },
+    {
+      "username": "sasha",
+      "password": "12345"
+    },
+    {
+      "username": "kate",
+      "password": "12345"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "3221",
+      "secondName": "3212",
+      "id": 15
+    },
+    {
+      "name": "123",
+      "secondName": "123",
+      "id": 16
+    },
+    {
+      "name": "dsa",
+      "secondName": "dsa",
+      "id": 17
+    },
+    {
+      "name": "eqw",
+      "secondName": "ewq",
+      "id": 18
+    },
+    {
+      "name": "444",
+      "secondName": "444",
+      "id": 19
+    },
+    {
+      "name": "22",
+      "secondName": "22",
+      "id": 20
+    },
+    {
+      "name": "дима",
+      "secondName": "пискарев",
+      "id": 21
+    },
+    {
+      "name": "vika",
+      "secondName": "belyakova",
+      "id": 22
+    },
+    {
+      "name": "dimasdds",
+      "secondName": "dadadasda",
+      "id": 23
+    },
+    {
+      "name": "1",
+      "secondName": "1",
+      "id": 24
+    },
+    {
+      "name": "431232",
+      "secondName": "31232",
+      "id": 25
+    }
+  ]
+}

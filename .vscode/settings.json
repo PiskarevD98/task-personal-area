@@ -1,0 +1,78 @@
+{
+    "update.mode": "none",
+    "workbench.colorTheme": "Solarized Dark",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[tsx]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[scss]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.useEditorConfig": false,
+    "prettier.requireConfig": true,
+    "debug.console.fontSize": 12,
+    "editor.tabSize": 2,
+    "workbench.startupEditor": "welcomePage",
+    "workbench.editor.wrapTabs": true,
+    "cSpell.language": "en,ru",
+    "cSpell.userWords": [
+      "Extens",
+      "Ngxs",
+      "Setted",
+      "browserslist",
+      "microtask",
+      "minlength",
+      "mixins",
+      "mylogin",
+      "mypassword",
+      "resizer",
+      "unsubscriber",
+      "unsubscribers",
+      "инета",
+      "соглов",
+      "сторе"
+    ],
+    "cSpell.ignorePaths": [
+      "**/node_modules/**",
+      "**/plguins/**",
+      "**/platforms/**",
+      "**/custom/**",
+      "**/package.json"
+    ],
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.linkedEditing": true,
+    "scss.lint.duplicateProperties": "warning",
+    "json.maxItemsComputed": 25000,
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.fontAliasing": "auto",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editorAssociations": {
+      "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+      "default": "right",
+      "jupyter-notebook": "left"
+    },
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.guides.bracketPairs": true,
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.unicodeHighlight.includeStrings": false
+  }
