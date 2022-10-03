@@ -1,7 +1,5 @@
 export interface IContacts {
-    name: string,
-    secondName: string,
-    id?: string
-
+  name: string;
+  secondName: string;
+  id?: string;
 }
-
